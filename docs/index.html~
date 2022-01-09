@@ -20,12 +20,12 @@
     <hr>
     <h3>Education</h3>
     <ul>
-      <li>CUNY Queen's College</li>
-      <li>The Cooper Union for the Advancement of Science and Art</li>
+      <li>Queen's College</li>
+      <li>Cooper Union</li>
     </ul>
     <hr>
     <h3>Work Experience</h3>
-    <table cellspacing="10">
+    <table>
       <thead>
 	<th align="left">Dates</th>
 	<th align="left">Work</th>
@@ -39,32 +39,16 @@
     </table>
     <hr>
     <h3>Skills</h3>
-    <table cellspacing="10">
+    <table>
       <tbody>
 	<tr>
 	  <td>C++</td>
 	  <td>&#127775;&#127775;&#127775;&#127775;</td>
 	</tr>
-	<tr>
-	  <td>Python</td>
-	  <td>&#127775;&#127775;&#127775;</td>
-	</tr>
-	<tr>
-	  <td>Java</td>
-	  <td>&#127775;&#127775;</td>
-	</tr>
-	<tr>
-	  <td>HTML</td>
-	  <td>&#127775;&#127775;&#127775;&#127775;</td>
-	</tr>
       </tbody>
     </table>
-    <hr>
-</td>
-</tr>
-</table>
-    <br>
     <a href="hobbies.html">My Hobbies</a>
+    <br><br>
     <a href="contact.html">My Contact Details</a>
   </body>
 </html>
